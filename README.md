@@ -30,11 +30,15 @@ Aplicación nativa de Android desarrollada en Kotlin que permite calcular el **�
 
 ## 📷 Capturas de pantalla
 
-![Pantalla inicial](home.png)
-*Pantalla principal de la app donde se ajusta altura y peso.*
 
-![Resultado IMC](result.png)
-*CardView mostrando el resultado del IMC y el rango correspondiente.*
+<p align="center">
+  <img src="home.png" width="250">
+  <img src="result.png" width="250">
+</p>
+
+<p align="center">
+  <sub>App de IMC con cálculo de peso ideal y resultado visual</sub>
+</p>
 
 ## 📝 Lo que aprendí
 
