@@ -60,4 +60,4 @@ Aplicaci√≥n nativa de Android desarrollada en Kotlin que permite calcular el **√
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/imc_app.git
+git clone https://github.com/GualpaJ/IMC-App-Android.git
